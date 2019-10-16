@@ -333,5 +333,9 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
+  },
+  {
+    "title": "git branch",
+    "description": "Used to create a seperate branch on the repository. Very beneficial to not mess up the master(main) branch. Also after performing a commit, it is possible to merge it to the main repository using a Pull Request. Can also be used to delete or list the existing brancher on the repository."
   }
 ]
